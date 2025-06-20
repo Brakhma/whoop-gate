@@ -30,3 +30,5 @@ LGT прошивайте с clock divider 2
 [https://htrd.su/blog/2022/12/04/lgt8fx-lgt8328p/](https://htrd.su/blog/2022/12/04/lgt8fx-lgt8328p/)  
 [https://arduino.ru/forum/apparatnye-voprosy/obzor-klona-megi328-lgt8f328p](https://arduino.ru/forum/apparatnye-voprosy/obzor-klona-megi328-lgt8f328p)  
 [http://www.prodesign.com.cn/](http://www.prodesign.com.cn/lgt8f328p/)  
+
+**UPD** Добавлены модели 19 сантиметровых колец. Кольцо печатается на столе 22х22 без окантовки с кастомной поддержкой (только там где крепится коробка). Заполнение в принципе любое. Лента WS2812, электроника - LGT8F328P. Клеммы брал [здесь](https://aliexpress.ru/item/1005004432819933.html ) Размеры клеммы в папке с моделью. Количество диодов в прошивке поменяйте под ваш монтаж и плотность ленты, лучше использовать ленту 60led\m.
